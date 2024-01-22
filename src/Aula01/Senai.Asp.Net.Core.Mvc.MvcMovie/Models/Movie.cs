@@ -1,8 +1,8 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Senai.Asp.Net.Core.Mvc.MvcMovie.Models;
-
 
 public class Movie
 {
